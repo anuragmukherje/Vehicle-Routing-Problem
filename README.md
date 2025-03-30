@@ -160,7 +160,5 @@ run_genetic_algorithm()
 
 ## 👨‍💻 Author
 **Anurag Mukherjee**  
-📌 GitHub: Anurag Mukherjee(https://github.com/anuragmukherje)  
-📌 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/anurag-mukherjee21/)  
-
-🚀 *Optimizing Logistics with AI-Powered Evolutionary Algorithms!*
+📌 GitHub: [Anurag Mukherjee](https://github.com/anuragmukherje)  
+📌 LinkedIn: [Anurag Mukherjee](https://www.linkedin.com/in/anurag-mukherjee21/)  
